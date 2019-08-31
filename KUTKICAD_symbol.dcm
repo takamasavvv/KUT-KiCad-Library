@@ -1,7 +1,15 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP AE-GYSFDMAXB
+F http://akizukidenshi.com/catalog/g/gK-09991/
+$ENDCMP
+#
 $CMP AE-RN-42
 D Akiduki bluetooth module
+$ENDCMP
+#
+$CMP GYSFDMAXB
+F http://www.yuden.co.jp/wireless_module/document/datareport2/jp/TY_GPS_GYSFDMAXB_DataReport_V1.0J_20161201.pdf
 $ENDCMP
 #
 $CMP HV7802
@@ -12,6 +20,34 @@ $ENDCMP
 $CMP KRC_Conn_PowerOut
 D Power out Black connector
 K DF22R-2S
+$ENDCMP
+#
+$CMP LD1086
+F http://www.st.com/content/ccc/resource/technical/document/datasheet/53/db/00/58/09/98/4b/36/CD00001884.pdf/files/CD00001884.pdf/jcr:content/translations/en.CD00001884.pdf
+$ENDCMP
+#
+$CMP LPS22HB_Module
+F http://www.st.com/content/ccc/resource/technical/document/datasheet/bf/c1/4f/23/61/17/44/8a/DM00140895.pdf/files/DM00140895.pdf/jcr:content/translations/en.DM00140895.pdf
+$ENDCMP
+#
+$CMP LSM9DS0_Module
+F http://www.st.com/content/ccc/resource/technical/document/datasheet/ab/2a/3b/45/f0/92/41/73/DM00087365.pdf/files/DM00087365.pdf/jcr:content/translations/en.DM00087365.pdf
+$ENDCMP
+#
+$CMP MP3V5050
+F http://www.nxp.com/assets/documents/data/en/data-sheets/MP3V5050.pdf
+$ENDCMP
+#
+$CMP NJM2845
+F http://www.njr.co.jp/products/semicon/PDF/NJM2845_NJM2846_J.pdf
+$ENDCMP
+#
+$CMP NJM2884
+F http://www.njr.co.jp/products/semicon/PDF/NJM2884_2884A_J.pdf
+$ENDCMP
+#
+$CMP ST1480AxDR
+F http://www.st.com/content/ccc/resource/technical/document/datasheet/81/93/fa/ed/87/47/46/00/CD00003136.pdf/files/CD00003136.pdf/jcr:content/translations/en.CD00003136.pdf
 $ENDCMP
 #
 #End Doc Library
