@@ -116,7 +116,7 @@
   (lib (name MCU_ST_STM32F0)(type Legacy)(uri ${KICAD_SYMBOL}/MCU_ST_STM32F0.lib)(options "")(descr ""))
   (lib (name MCU_ST_STM32F1)(type Legacy)(uri ${KICAD_SYMBOL}/MCU_ST_STM32F1.lib)(options "")(descr ""))
   (lib (name MCU_ST_STM32F2)(type Legacy)(uri ${KICAD_SYMBOL}/MCU_ST_STM32F2.lib)(options "")(descr ""))
-  (lib (name MCU_ST_STM32F3)(type Legacy)(uri ${KICAD_SYMBOL}/MCU_ST_STM32F3.lib)(options "")(descr "")) 
+  (lib (name MCU_ST_STM32F3)(type Legacy)(uri ${KICAD_SYMBOL}/MCU_ST_STM32F3.lib)(options "")(descr ""))
   (lib (name MCU_ST_STM32F4)(type Legacy)(uri ${KICAD_SYMBOL}/MCU_ST_STM32F4.lib)(options "")(descr ""))
   (lib (name MCU_ST_STM32F7)(type Legacy)(uri ${KICAD_SYMBOL}/MCU_ST_STM32F7.lib)(options "")(descr ""))
   (lib (name MCU_ST_STM32H7)(type Legacy)(uri ${KICAD_SYMBOL}/MCU_ST_STM32H7.lib)(options "")(descr ""))
@@ -192,7 +192,5 @@
   (lib (name Transistor_IGBT)(type Legacy)(uri ${KICAD_SYMBOL}/Transistor_IGBT.lib)(options "")(descr ""))
   (lib (name Triac_Thyristor)(type Legacy)(uri ${KICAD_SYMBOL}/Triac_Thyristor.lib)(options "")(descr ""))
   (lib (name Valve)(type Legacy)(uri ${KICAD_SYMBOL}/Valve.lib)(options "")(descr ""))
+  (lib (name KUTKiCad_symbol)(type Legacy)(uri ${KUTKICAD}/KUTKiCad_symbol.lib)(options "")(descr ""))
 )
-
-
-
