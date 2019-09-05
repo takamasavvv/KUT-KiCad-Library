@@ -1,6 +1,6 @@
 # KUT-KiCad-Library
 
-日本にない大学のrobotやらrocketの周辺に出没するKicadライブラリ
+日本にない大学のrobotやらrocketの周辺に出没するKiCadライブラリ
 
 ## 概要
 
@@ -38,6 +38,6 @@ KISYSMODは初期はKiCad本体にあるローカルライブラリが登録さ�
 
 楽しい kicad life を！
 
-P.S.
+***P.S.***  
 バトルキメランテス（ https://github.com/RobotClubKut/kicad-library ）は死んだ！  
 昔のほう（ https://github.com/KUT-KiCad ）にあとでmarge予定
