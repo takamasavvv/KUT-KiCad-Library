@@ -1,4 +1,4 @@
-(module ublox-CAM (layer F.Cu) (tedit 5D6ED358)
+(module ublox-CAM (layer F.Cu) (tedit 5D7A4A89)
   (attr smd)
   (fp_text reference REF** (at 4.8 -5) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))

@@ -1,4 +1,5 @@
-(module Hirose_DF3_DF3DZ-3P-2V_1x03_P2.0mm_SMD_Vertical (layer F.Cu) (tedit 5D6ECAF5)
+(module Hirose_DF3_DF3DZ-3P-2V_1x03_P2.0mm_SMD_Vertical (layer F.Cu) (tedit 5D7A49B2)
+  (attr smd)
   (fp_text reference REF** (at 0 -3.175) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

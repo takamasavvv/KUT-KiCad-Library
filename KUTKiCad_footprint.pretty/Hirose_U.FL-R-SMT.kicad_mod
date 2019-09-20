@@ -1,4 +1,5 @@
-(module Hirose_U.FL-R-SMT (layer F.Cu) (tedit 5D6ECDBA)
+(module Hirose_U.FL-R-SMT (layer F.Cu) (tedit 5D7A49E5)
+  (attr smd)
   (fp_text reference REF** (at 0 2.5) (layer F.SilkS)
     (effects (font (size 0.5 0.5) (thickness 0.075)))
   )

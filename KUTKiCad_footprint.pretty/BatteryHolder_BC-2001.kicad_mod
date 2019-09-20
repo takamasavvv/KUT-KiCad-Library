@@ -1,5 +1,6 @@
-(module BatteryHolder_BC-2001 (layer F.Cu) (tedit 5D6EC799)
+(module BatteryHolder_BC-2001 (layer F.Cu) (tedit 5D7A4946)
   (tags CR2032)
+  (attr smd)
   (fp_text reference REF** (at 0 -7.62) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

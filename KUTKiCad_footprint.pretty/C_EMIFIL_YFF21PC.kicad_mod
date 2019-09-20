@@ -1,4 +1,5 @@
-(module C_EMIFIL_YFF21PC (layer F.Cu) (tedit 5A4B9A0B)
+(module C_EMIFIL_YFF21PC (layer F.Cu) (tedit 5D7A496A)
+  (attr smd)
   (fp_text reference REF** (at 0 1.5) (layer F.SilkS)
     (effects (font (size 0.7 0.7) (thickness 0.1)))
   )

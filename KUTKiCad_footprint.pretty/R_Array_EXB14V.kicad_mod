@@ -1,6 +1,7 @@
-(module R_Array_EXB14V (layer F.Cu) (tedit 5A49E458)
+(module R_Array_EXB14V (layer F.Cu) (tedit 5D7A4A3C)
   (descr "Panasonic Register Array")
   (tags "Panasonic R array")
+  (attr smd)
   (fp_text reference REF** (at 0 -0.7) (layer F.SilkS)
     (effects (font (size 0.3 0.3) (thickness 0.05)))
   )

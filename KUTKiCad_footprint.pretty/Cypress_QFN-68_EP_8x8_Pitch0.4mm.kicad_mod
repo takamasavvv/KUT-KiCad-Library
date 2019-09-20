@@ -1,4 +1,4 @@
-(module Cypress_QFN-68_EP_8x8_Pitch0.4mm (layer F.Cu) (tedit 5D6EBD6C)
+(module Cypress_QFN-68_EP_8x8_Pitch0.4mm (layer F.Cu) (tedit 5D7A497D)
   (attr smd)
   (fp_text reference REF** (at 0 -5.65) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))

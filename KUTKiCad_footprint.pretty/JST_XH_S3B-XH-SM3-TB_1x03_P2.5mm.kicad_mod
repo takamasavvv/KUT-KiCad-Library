@@ -1,4 +1,5 @@
-(module JST_XH_S3B-XH-SM3-TB_1x03_P2.5mm (layer F.Cu) (tedit 5D6FDA33)
+(module JST_XH_S3B-XH-SM3-TB_1x03_P2.5mm (layer F.Cu) (tedit 5D7A4A09)
+  (attr smd)
   (fp_text reference REF** (at 1.34 5.48 90) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

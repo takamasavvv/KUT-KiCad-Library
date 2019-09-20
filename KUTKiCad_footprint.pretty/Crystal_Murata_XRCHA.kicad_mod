@@ -1,4 +1,5 @@
-(module Crystal_Murata_XRCHA (layer F.Cu) (tedit 5A5B8EC8)
+(module Crystal_Murata_XRCHA (layer F.Cu) (tedit 5D7A4970)
+  (attr smd)
   (fp_text reference REF** (at 0 2.05) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
