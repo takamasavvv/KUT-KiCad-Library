@@ -9,7 +9,7 @@ D High Side Current Monitor
 K High Side Current Monitor
 $ENDCMP
 #
-$CMP KRC_Conn_PowerOut
+$CMP KRC_Conn_PowerOut_DF22x
 D Power out Black connector
 K DF22R-2S
 $ENDCMP
