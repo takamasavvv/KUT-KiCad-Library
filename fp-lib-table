@@ -129,4 +129,5 @@
   (lib (name STR-G-DCDC5A)(type KiCad)(uri C:/Users/takamasavvv/Dropbox/Workspace/KiCad-Projects/STR-G-DCDC5A/STR-G-DCDC5A.pretty)(options "")(descr ""))
   (lib (name STR-X-Avionics)(type KiCad)(uri C:/Users/takamasavvv/Dropbox/Workspace/KiCad-Projects/STR-X-Avionics/STR-X-Avionics.pretty)(options "")(descr ""))
   (lib (name STR-X-miniGSE)(type KiCad)(uri C:/Users/takamasavvv/Dropbox/Workspace/KiCad-Projects/STR-X-miniGSE/STR-X-miniGSE.pretty)(options "")(descr ""))
+  (lib (name old-Footprints)(type KiCad)(uri C:/Users/takamasavvv/Dropbox/Workspace/KiCad-Projects/STR-X-miniGSE/STR-X-miniGSE.pretty)(options "")(descr ""))
 )
