@@ -38,6 +38,3 @@ KISYSMODは初期はKiCad本体にあるローカルライブラリが登録さ�
 
 楽しい kicad life を！
 
-***P.S.***  
-バトルキメランテス（ https://github.com/RobotClubKut/kicad-library ）は死んだ！  
-昔のほう（ https://github.com/KUT-KiCad ）にあとでmarge予定
